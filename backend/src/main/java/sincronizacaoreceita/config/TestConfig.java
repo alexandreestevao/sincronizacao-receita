@@ -31,8 +31,8 @@ public class TestConfig implements CommandLineRunner {
 	// Leitura do arquivo
 		public void reader() {
 
-			//String path = "c:\\temp\\in.txt";
-			String path = "source\\in.txt";
+			//String path = "c:\\temp\\in.csv";
+			String path = "source\\in.csv";
 
 			List<Account> list = new ArrayList<Account>();
 
